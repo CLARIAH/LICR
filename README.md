@@ -1,2 +1,2 @@
-# LICR
-Linked International Classification of Religions
+# vocabs
+Vocabularies, concept schemes, taxonomies, etc.
